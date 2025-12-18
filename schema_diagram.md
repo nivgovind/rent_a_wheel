@@ -104,5 +104,4 @@ erDiagram
     CC_CATALOG {
         VARCHAR2 card_number
     }
-```</content>
-<parameter name="filePath">/Users/nivedhithaagovindaraj/projects/rent_a_wheel/schema_diagram.md
+```

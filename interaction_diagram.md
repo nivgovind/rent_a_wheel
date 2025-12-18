@@ -22,5 +22,4 @@ sequenceDiagram
     BookingPackage->>Reservations: UPDATE status='active' (assumed)
     Reservations->>Vehicles: UPDATE availability_status=0
     Vehicles-->>Reservations: Vehicle unavailable
-```</content>
-<parameter name="filePath">/Users/nivedhithaagovindaraj/projects/rent_a_wheel/interaction_diagram.md
+```
