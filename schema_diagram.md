@@ -1,4 +1,3 @@
-```mermaid
 erDiagram
     %% USER DOMAIN
     USER_ACCOUNTS ||--o{ CUSTOMERS : "has"
@@ -265,4 +264,3 @@ erDiagram
         INT rented_count
         TIMESTAMP last_updated_at
     }
-```
